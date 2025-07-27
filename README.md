@@ -18,6 +18,16 @@ Big Data technologies are transforming teaching quality, institutional efficienc
 - **SQL (SQLite)**: Aggregations, CTEs, CASE statements, window functions
 - **Power BI**: Interactive dashboard (in progress)
 
+## 📊 Power BI Dashboard
+
+![Dashboard Preview](dashboard/dashboard_preview.png)
+
+This Power BI dashboard visualizes:
+- Average Big Data usage by education level
+- Career development rating by gender
+- Ethnicity distribution
+- Interactive filters for gender, education, and ethnicity
+
 ## 🚀 Tools Used
 - Python (pandas, seaborn, matplotlib)
 - SQL (SQLite syntax)
